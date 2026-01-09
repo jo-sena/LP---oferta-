@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" fill="#0A1F1C"/>
+  <path d="M16,8 L20,10 L20,14 L16,16 L12,14 L12,10 Z" fill="none" stroke="#C9A05F" stroke-width="1.2"/>
+  <path d="M16,10 L18.5,11.5 L18.5,14.5 L16,16 L13.5,14.5 L13.5,11.5 Z" fill="none" stroke="#C9A05F" stroke-width="1"/>
+  <rect x="14" y="12" width="1.5" height="6" fill="#C9A05F"/>
+  <rect x="14" y="12" width="4" height="1.5" fill="#C9A05F"/>
+  <rect x="14" y="15" width="3" height="1.2" fill="#C9A05F"/>
+  <text x="16" y="26" font-family="Arial" font-size="4" fill="#C9A05F" text-anchor="middle" font-weight="300">F&amp;C</text>
+</svg>
