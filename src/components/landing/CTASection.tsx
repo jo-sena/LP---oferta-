@@ -56,6 +56,7 @@ const CTASection = () => {
             variant="cta" 
             size="xl" 
             className="relative min-w-[240px] px-8 py-6 text-base font-medium transition-all duration-500 hover:tracking-wide hover:shadow-lg"
+            onClick={() => window.open('https://pay.kirvano.com/43b53d8d-470d-4283-9e55-f7d5bdfc8204', '_blank')}
           >
             Acessar o diagnóstico
           </Button>
